@@ -1,0 +1,35 @@
+nav{
+    background-color: darkslateblue;
+    text-align: right;
+    text-decoration:line-through;
+    text-transform: capitalize;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    font-weight: lighter;
+    color:mediumspringgreen;
+}
+
+nav a{
+    color:deeppink;
+}
+header{
+    background-color:darkcyan;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+}
+
+h1 a{
+    color:chartreuse;
+    text-decoration: none;
+}
+
+aside img{
+    width: 300px;
+}
+
+footer p{
+    color: aqua;
+    font-size: 35px;
+}
